@@ -1,0 +1,23 @@
+<div metal:use-macro="view.template">
+
+    <div metal:fill-slot="main_content">
+        <div class="jumbotron">
+            <div class="container">
+                <h1>Learning The Word</h1>
+                <h2>Thy word have I hid in mine heart, that I might not sin against thee.
+                    <br/>Psalms 119:11</h2>
+                <p>Have you ever struggled trying to memorize the Bible? Try this new approach to Bible memorization.</p>
+                    <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+            </div>
+        </div>
+        <div class="intro-page">
+            <div class="container">
+                <h2>News</h2>
+                <p>First release coming soon!</p>
+                <p>${title}</p>
+            </div>
+        </div>
+
+    </div>
+
+</div>

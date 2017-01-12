@@ -1,0 +1,22 @@
+<div metal:use-macro="view.template">
+
+    <div metal:fill-slot="main_content">
+
+
+        <div class="container">
+            <h3>About LearningTheWord.com</h3>
+            <br/>
+            <p>Synopsis: This is a free web app to help those who struggle with memorizing scripture.</p>
+            <br/>
+            <p>Author: Joseph Schueler</p>
+            <br/>
+            <p>About me: I am a Christian that is a Computer Programmer, and I want to use my talent for God. I have
+                <br/> always struggled with memorizing bible verses, and I thought this would be a great app to build,
+                <br/> helping now only me, but anyone else that struggles with memorization.
+            </p>
+
+        </div>
+
+    </div>
+
+</div>

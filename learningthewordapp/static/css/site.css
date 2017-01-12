@@ -1,0 +1,11 @@
+
+p {font-size: 14pt;}
+
+.jumbotron {background-image: url("/static/bible-07.jpg");
+            color: whitesmoke;}
+
+form{
+    padding: 50px;
+    max-width: 600px;}
+
+.input-group-lg {padding: 10px;}
